@@ -20,6 +20,7 @@ I'm Interested In 📚
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>
 
 ![Omar's github stats](https://github-readme-stats.vercel.app/api?username=omer-os&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omer-os&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 **Connect with me:**
 
