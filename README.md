@@ -21,6 +21,7 @@ I'm Interested In 📚
 
 ![Omar's github stats](https://github-readme-stats.vercel.app/api?username=omer-os&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omer-os&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br />
 ![Visitor Stats](https://visitor-badge.laobi.icu/badge?page_id=omer-os.github.io)
 ![GitHub followers](https://img.shields.io/github/followers/omer-os?label=Follow&style=social)
 ![GitHub stars](https://img.shields.io/github/stars/omer-os/omer-os?style=social)
