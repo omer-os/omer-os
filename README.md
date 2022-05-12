@@ -19,7 +19,7 @@ I'm Interested In 📚
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>
 
-![Omar's github stats](https://github-readme-stats.vercel.app/api?username=omer-os&show_icons=true&count_private=true&theme=dark&include_all_commits=true&custom_title=My%20Github%20Stats&layout=default)
+[![Omar's github stats](https://github-readme-stats.vercel.app/api?username=omer-os&show_icons=true&count_private=true&theme=dark&include_all_commits=true&custom_title=My%20Github%20Stats&layout=default)](https://github.com/omer-os)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omer-os&layout=compact&theme=dark)](https://github.com/omer-os?tab=repositories)
 <br />
 ![Visitor Stats](https://visitor-badge.laobi.icu/badge?page_id=omer-os.github.io)
