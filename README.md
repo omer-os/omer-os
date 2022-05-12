@@ -33,14 +33,4 @@ I'm Interested In 📚
 <a href="https://www.facebook.com/omer.chetin.5"><img src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png" width="40"></a>
 <a href="https://www.instagram.com/omar.chatin/"><img src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" width="40"></a>
 
----
-
-## My Best Projects
-
-<a href="https://meloproduction.vercel.app/"><img width="400" alt="Capture" src="https://user-images.githubusercontent.com/66512898/168011845-614d1293-c81c-48b1-aa2b-f17aa8b07392.PNG" /></a>
-
----
-
-> If you found this page useful, subscribe to my [Youtube Channel](https://www.youtube.com/channel/UCYkIo0fJZ2a56Z9CvO8I0jA).
-
 Thanks for stopping by! 🤗
