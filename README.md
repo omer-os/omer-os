@@ -1,19 +1,32 @@
 ### Hi there 👋 i'm omar chatin.
 
-## i'm a dental technician.
+# Im In Love with Programming.
 
-**Dental technicians** make and fit artificial teeth as well as other dental appliances. They work closely with dentists, taking accurate impressions and constructing models of patients’ teeth. This enables them to make customized appliances that restore both the function and appearance of the teeth.
+I'm a 👨‍💻 Dental Technician & Front-end Developer.
 
-Dental technicians work in laboratories and must have excellent color vision, good hand-eye coordination and manual dexterity.
+I'm Interested In 📚 
+- [ ] 🎨 Designing.
+- [ ] 📚 Learning new things.
+- [ ] 🚀 Exploring new idea's.
+- [ ] 💡 Helping others.
 
-### i'm interested in front end web developer.
+**Languages and Tools:**  
 
-I have good skills in these tools :
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/rest/rest.png"></code>
 
-- html
-- css
-- javascript
-- Reactjs
-- tailwind
-- material-ui
-- ux/ui design espacially in figma.
+![Omar's github stats](https://github-readme-stats.vercel.app/api?username=OmarChatin&show_icons=true&theme=tokyonight)
+
+**Connect with me:**
+
+<a href="https://www.linkedin.com/in/omarchatin/"><img src="https://github.com/OmarChatin/OmarChatin/blob/main/linkedin-3-638.jpg" width="40"></a>
+<a href="https://www.facebook.com/omarchatinofficial/"><img src="https://github.com/OmarChatin/OmarChatin/blob/main/facebook-4-638.jpg" width="40"></a>
+<a href="https://www.instagram.com/omarchatinofficial/"><img src="https://github.com/OmarChatin/OmarChatin/blob/main/instagram-6-1024x1024.jpg" width="40"></a>
+
+---
+
+⭐️ From [OmarChatin](https://github.com/OmarChatin)
