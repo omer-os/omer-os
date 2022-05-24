@@ -1,36 +1,29 @@
-### Hi there 👋 i'm omar chatin.
+<h1 align="center">Hi 👋, I'm omar chatin</h1>
+<h3 align="center">I'm a 👨‍💻 Dental Technician & Front-end web developer Developer.</h3>
 
-# Im In Love with Programming.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omer-os&label=Profile%20views&color=0e75b6&style=flat" alt="omer-os" /> </p>
 
-I'm a 👨‍💻 Dental Technician & Front-end Developer.
+- 🌱 I’m currently exploreing **Front end dev. frameworks**
 
-I'm Interested In 📚 
-- [ ] 🎨 Designing.
-- [ ] 📚 Learning new things.
-- [ ] 🚀 Exploring new idea's.
-- [ ] 💡 Helping others.
+- 👨‍💻 All of my projects are available at [https://github.com/omer-os?tab=repositories](https://github.com/omer-os?tab=repositories)
 
-**Languages and Tools:**  
+- 📝 I regularly write articles on [https://omarchatin.vercel.app/home](https://omarchatin.vercel.app/home)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>
+- 💬 Ask me about **react,next.js, python**
 
-[![Omar's github stats](https://github-readme-stats.vercel.app/api?username=omer-os&show_icons=true&count_private=true&theme=dark&include_all_commits=true&custom_title=My%20Github%20Stats&layout=default)](https://github.com/omer-os)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omer-os&layout=compact&theme=dark)](https://github.com/omer-os?tab=repositories)
-<br />
-![Visitor Stats](https://visitor-badge.laobi.icu/badge?page_id=omer-os.github.io)
-![GitHub followers](https://img.shields.io/github/followers/omer-os?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/omer-os/omer-os?style=social)
-![GitHub forks](https://img.shields.io/github/forks/omer-os/omer-os?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/omer-os/omer-os?style=social)
+- 📫 How to reach me **omerchetin19@gmail.com**
 
-**Connect with me:**
+- 📄 Know about my experiences [https://omarchatin.vercel.app/home](https://omarchatin.vercel.app/home)
 
-<a href="https://www.facebook.com/omer.chetin.5"><img src="https://raw.githubusercontent.com/github/explore/9adcff6afda303fb7fcead92954bad819fa7a4bd/topics/facebook/facebook.png" width="40"></a>
-<a href="https://www.instagram.com/omar.chatin/"><img src="https://raw.githubusercontent.com/github/explore/06c46459e7947c8a25f72798af696d66e202ac39/topics/instagram/instagram.png" width="40"></a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/omer.chetin.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omer.chetin.5" height="30" width="40" /></a>
+<a href="https://instagram.com/omar.chatin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omar.chatin" height="30" width="40" /></a>
+</p>
 
-Thanks for stopping by! 🤗
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omer-os&show_icons=true&locale=en&layout=compact" alt="omer-os" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omer-os&show_icons=true&locale=en" alt="omer-os" /></p>
