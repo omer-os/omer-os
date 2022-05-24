@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm omar chatin</h1>
-<h3 align="center">I'm a 👨‍💻 Dental Technician & Front-end web developer Developer.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omer-os&label=Profile%20views&color=0e75b6&style=flat" alt="omer-os" /> </p>
+<h1 align="left">Hi 👋, I'm omar chatin</h1>
+<h3 align="left">I'm a 👨‍💻 Dental Technician & Front-end web developer Developer.</h3>
 
 - 🌱 I’m currently exploreing **Front end dev. frameworks**
 
