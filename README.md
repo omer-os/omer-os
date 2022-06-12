@@ -1,5 +1,6 @@
 # 💫About Me :
-I'm a 👨‍💻 Dental Technician & Front-end web developer Developer.
+I'm a 👨‍💻 Dental Technician & Front-end web Developer.
+
 🌱 I’m currently exploreing Front end dev. frameworks
 
 👨‍💻 All of my projects are available at https://github.com/omer-os?tab=repositories
