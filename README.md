@@ -1,11 +1,9 @@
 # 💫About Me :
 I'm a 👨‍💻 Dental Technician & Front-end web Developer.
 
-🌱 I’m currently exploreing Front end dev. frameworks
+🌱 I’m currently exploring Front-end dev. frameworks
 
 👨‍💻 All of my projects are available at https://github.com/omer-os?tab=repositories
-
-📝 I regularly write articles on https://omarchatin.vercel.app/home
 
 💬 Ask me about react,next.js, python
 
