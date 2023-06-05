@@ -3,13 +3,13 @@ I'm a 👨‍💻 Dental Technician & Front-end web Developer.
 
 🌱 I’m currently exploring Front-end dev. frameworks
 
-👨‍💻 All of my projects are available at https://github.com/omer-os?tab=repositories
+👨‍💻 checkout my projects [https://github.com/omer-os?tab=repositories](https://www.omarchatin.com/projects)
 
 💬 Ask me about react,next.js, python
 
 📫 How to reach me omerchetin19@gmail.com
 
-📄 Know about my experiences https://omarchatin.vercel.app/home
+📄 Know about my skills https://omarchatin.com
 
 
 ## 🌐Socials
@@ -27,9 +27,6 @@ I'm a 👨‍💻 Dental Technician & Front-end web Developer.
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=omer-os&icon=9&color=1)](https://visitcount.itsvg.in)
