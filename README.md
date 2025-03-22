@@ -1,1 +1,1 @@
-## Dental Technician & Front-end web Developer.
+Front-end web Developer.
