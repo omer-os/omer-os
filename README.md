@@ -6,5 +6,5 @@ I work across the stack with **React**, **Next.js**, **SvelteKit**, **TypeScript
 
 Currently exploring SvelteKit deeply and building SaaS products for the Iraqi market.
 
-- 🌐 [omarchatin.vercel.app](http://omarchatin.vercel.app)
+- 🌐 [omaris.dev](https://omaris.dev)
 - 🗣️ Arabic · English · Turkish
